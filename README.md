@@ -1,9 +1,4 @@
-### Hi there 👋
-
-<!--
-**judgutierrezm/judgutierrezm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+Curious, good observer. Analyst of complex situations and strategist based on data. Proficient as a project manager and good teamwork player. Telling funny stories specialist.
 
 - 🔭 I’m currently working on Akoni Producciones
 - 🌱 I’m currently learning SQL and python
